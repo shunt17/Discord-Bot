@@ -4,7 +4,7 @@ const bot = new Discord.Client();
 
 bot.commands = new Discord.Collection();
 
-const TOKEN = "NDI2NzY4NjgxMTg0Mzk1MjY0.DZazMA.HOgD6TDZX_TTnDymRXjwgWhCuYU";
+const TOKEN = "Token ID";
 
 var eightball = [
     "Yes!",
