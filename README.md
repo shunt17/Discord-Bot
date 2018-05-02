@@ -1,0 +1,2 @@
+# Discord-Bot
+AI project
