@@ -15,7 +15,7 @@ https://discordapp.com/developers/docs/intro
 https://discordapp.com/developers/applications
 
 Troubleshooting:
-if the bot for any reason dose not follow the commands appropriately, please contact beezle-bub on discord 
+if the bot for any reason does not follow the commands appropriately, please contact beezle-bub on discord 
 
 Maintainers:
 
