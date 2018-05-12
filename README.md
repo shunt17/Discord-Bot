@@ -18,5 +18,7 @@ Troubleshooting:
 if the bot for any reason dose not follow the commands appropriately, please contact beezle-bub on discord 
 
 Maintainers:
+
 Shauna Hunt
+
 Angela Fassio 
