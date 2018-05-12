@@ -19,4 +19,5 @@ if the bot for any reason dose not follow the commands appropriately, please con
 
 Maintainers:
 -Shauna Hunt
+
 -Angela Fassio 
