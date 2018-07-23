@@ -3,8 +3,7 @@ const Music = require('discord.js-musicbot-addon');
 const bot = new Discord.Client();
 
 bot.commands = new Discord.Collection();
-
-const TOKEN = "NDI2NzY4NjgxMTg0Mzk1MjY0.DdPqug.bTKon4Cv7t6DGG1c94HN0GY7Go8"; //personal discord bot token 
+"; //personal discord bot token 
 
 var eightball = [ //creates the 8ball variable and some of the respones that the 8ball command will give 
     "Yes!",
